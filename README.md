@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Denis
 ##  I a looking for backend developer position related with Cloud and Kubernates.
 ### 🔭 I’m a 29-year-old software guy
-### 🌱 I’m currently learning Python, CSS, Kubernates, 
+### 🌱 I’m currently learning Python, CSS, Kubernates 
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 📫 How to reach me: banigoden@gmail.com, LinkedIn
 ### 😄 Pronouns: Denis
