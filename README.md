@@ -7,7 +7,9 @@
 ### 😄 Pronouns: Denis
 ### ⚡ Fun fact: I am interested in Sailing Yachting, volleyball
 ### 👯 I’m looking to collaborate on my GitHub repos
-### 💬 Ask me about Java, HTML, MySQL, MongoDB, Spring Boot, 
+### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB.
+### Check my webpage https://github.com/banigoden/banigoden.github.io
+### Improve it everytime https://github.com/banigoden/renting
 # Helpfull link for all
 ### Kubernetes  and GKE. Where did I learn it? Docs https://kubernetes.io/docs/home/ and the video https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org helped you.
 Kubernetes Engine Containers
