@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Denis
-
+##  I a looking for A backend or fronted  developer position 
 ### 🔭 I’m a 29-year-old software guy
 ### 🌱 I’m currently learning Python, CSS, Kubernates, 
 ### 👯 I’m looking to collaborate on my GitHub repos
@@ -24,11 +24,11 @@ Kubernetes Engine Containers
 ### Phyton learning https://learnpython.com/
 ### Docker docs https://docs.docker.com/
 ### API : rapidapi.com/learn
-### HTML html.com
-### CSS  css-tricks.com
-### Tailwind CSS  tailwindcss.com
-### JavaScript  javaScript.info
-### Web3  learnweb3.io
-### DSA  algorithm-visualizer.org
+### HTML https://html.com/
+### CSS  https://css-tricks.com/
+### Tailwind CSS  https://tailwindcss.com/
+### JavaScript  https://javascript.info/
+### Web3  https://learnweb3.io/
+### DSA https://algorithm-visualizer.org/)
 
 
