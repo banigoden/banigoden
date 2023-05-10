@@ -31,6 +31,7 @@ Kubernetes Engine Containers
 ### Tailwind CSS  https://tailwindcss.com/
 ### JavaScript  https://javascript.info/
 ### Web3  https://learnweb3.io/
-### DSA https://algorithm-visualizer.org/)
+### DSA https://algorithm-visualizer.org/
+### AWS https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org
 
 
