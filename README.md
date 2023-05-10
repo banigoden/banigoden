@@ -24,7 +24,7 @@ Kubernetes Engine Containers
 ### MongoDB learning https://learn.mongodb.com/learn/dashboard or just read the docs
 ### MySQL https://sqlbolt.com/lesson/introduction
 ### Phyton learning https://learnpython.com/
-### Docker docs https://docs.docker.com/
+### Docker docs https://docs.docker.com/ and video https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&ab_channel=freeCodeCamp.org
 ### API : rapidapi.com/learn
 ### HTML https://html.com/
 ### CSS  https://css-tricks.com/
