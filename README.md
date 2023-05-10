@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I am Denis
 
 ### 🔭 I’m a 29-year-old software guy
 ### 🌱 I’m currently learning Python, CSS, Kubernates, 
@@ -7,7 +7,8 @@
 ### 😄 Pronouns: Denis
 ### ⚡ Fun fact: I am interested in Sailing Yachting, volleyball
 ### 👯 I’m looking to collaborate on my GitHub repos
-### 💬 Ask me about Java, HTML, MySQL, Spring Boot, 
+### 💬 Ask me about Java, HTML, MySQL, MongoDB, Spring Boot, 
+# Helpfull link for all
 ### Kubernetes  and GKE. Where did I learn it? Docs https://kubernetes.io/docs/home/ and the video https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org helped you.
 Kubernetes Engine Containers
 🎤 (14:25:45) Introduction to Containers
@@ -18,3 +19,16 @@ Kubernetes Engine Containers
 🎤 (15:32:18) Ingress for GKE
 🎤 (15:40:57) GKE Storage Options
 🎤 (15:57:05) Creating a GKE Cluster
+### MongoDB learning https://learn.mongodb.com/learn/dashboard or just read the docs
+### MySQL https://sqlbolt.com/lesson/introduction
+### Phyton learning https://learnpython.com/
+### Docker docs https://docs.docker.com/
+### API : rapidapi.com/learn
+### HTML html.com
+### CSS  css-tricks.com
+### Tailwind CSS  tailwindcss.com
+### JavaScript  javaScript.info
+### Web3  learnweb3.io
+### DSA  algorithm-visualizer.org
+
+
