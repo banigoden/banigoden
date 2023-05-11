@@ -22,6 +22,7 @@ Kubernetes Engine Containers
 🎤 (15:32:18) Ingress for GKE
 🎤 (15:40:57) GKE Storage Options
 🎤 (15:57:05) Creating a GKE Cluster
+### copy from github into cloud. Buil a container image. Push the image to container regestry. Create deployment. Verify everything.
 ### link:https://learn.mongodb.com/learn/dashboard)[MongoDB] or just read the link:https://docs.mongodb.com/[docs]
 ### link:https://sqlbolt.com/lesson/introduction](https://sqlbolt.com/lesson/introduction [MySQL]
 ### link:https://learnpython.com/](https://learnpython.com/[Phyton]
