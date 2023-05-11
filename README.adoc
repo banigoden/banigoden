@@ -22,17 +22,17 @@ Kubernetes Engine Containers
 🎤 (15:32:18) Ingress for GKE
 🎤 (15:40:57) GKE Storage Options
 🎤 (15:57:05) Creating a GKE Cluster
-### MongoDB learning [https://learn.mongodb.com/learn/dashboard](https://learn.mongodb.com/learn/dashboard) or just read the [docs](https://docs.mongodb.com/)
-### MySQL [https://sqlbolt.com/lesson/introduction](https://sqlbolt.com/lesson/introduction)
-### Phyton learning [https://learnpython.com/](https://learnpython.com/)
-### Docker [docs](https://docs.docker.com/) and [video](https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&ab_channel=freeCodeCamp.org)
-### API : [RapidAPI](https://rapidapi.com/learn/)
-### HTML [https://html.com/](https://html.com/)
-### CSS  [https://css-tricks.com/](https://css-tricks.com/)
-### Tailwind CSS  [https://tailwindcss.com/](https://tailwindcss.com/)
-### JavaScript  [https://javascript.info/](https://javascript.info/)
-### Web3  [https://learnweb3.io/](https://learnweb3.io/)
-### DSA [https://algorithm-visualizer.org/](https://algorithm-visualizer.org/)
-### AWS [https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJ]([https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org](https://algorithm-visualizer.org/](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org)
+### link:https://learn.mongodb.com/learn/dashboard)[MongoDB] or just read the link:https://docs.mongodb.com/[docs]
+### link:https://sqlbolt.com/lesson/introduction](https://sqlbolt.com/lesson/introduction [MySQL]
+### link:https://learnpython.com/](https://learnpython.com/[Phyton]
+### link:https://docs.docker.com/[Docker] and [video](https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&ab_channel=freeCodeCamp.org)
+### link:[RapidAPI](https://rapidapi.com/learn/[API]
+### link:https://html.com/](https://html.com/[HTML]
+### link:https://css-tricks.com/](https://css-tricks.com/[CSS]
+### link:https://tailwindcss.com/](https://tailwindcss.com/[Tailwind CSS]
+### link:https://javascript.info/](https://javascript.info/[JavaScript]
+### link:https://learnweb3.io/](https://learnweb3.io/[Web3]
+### link:https://algorithm-visualizer.org/](https://algorithm-visualizer.org/[DSA]
+### link:[https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org (https://algorithm-visualizer.org/](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org)
 
 
