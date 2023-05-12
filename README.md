@@ -28,5 +28,7 @@
 ### [DSA](https://algorithm-visualizer.org)
 ### [AWS Cloud](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org)
 ### [JavaScript](https://javascript.info)
+### [Gradle Java](https://docs.gradle.org/current/samples/sample_building_java_applications.html)
+### [React](https://react.dev/learn)
 
 
