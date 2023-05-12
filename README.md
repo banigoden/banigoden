@@ -13,16 +13,8 @@
 ### Improve it everytime [Renting](https://github.com/banigoden/renting)
 # Helpfull link for all
 ### Kubernetes  and GKE. Where did I learn it? [Kubernetes](https://kubernetes.io/docs/home/) and the [video](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org) help you.
-Kubernetes Engine Containers
-🎤 (14:25:45) Introduction to Containers
-🎤 (14:34:50) GKE and Kubernetes Concepts
-🎤 (14:47:10) Cluster and Node Management
-🎤 (15:00:23) Pods and Object Management
-🎤 (15:14:12) Kubernetes Services
-🎤 (15:32:18) Ingress for GKE
-🎤 (15:40:57) GKE Storage Options
-🎤 (15:57:05) Creating a GKE Cluster
-### copy from github into cloud. Buil a container image. Push the image to container regestry. Create deployment. Verify everything.
+### Kubernetes Engine Containers
+### 🎤 (15:57:05) Creating a GKE Cluster. What can you learn there: copy from github into cloud. Buil a container image. Push the image to container regestry. Create deployment. Verify everything.
 ### [MongoDB](https://learn.mongodb.com/learn/dashboard) or just read the [docs](https://docs.mongodb.com/)
 ### [MySQL](https://sqlbolt.com/lesson/introduction)
 ### [Phyton](https://learnpython.com/)
