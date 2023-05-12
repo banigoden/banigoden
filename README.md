@@ -9,7 +9,7 @@
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB.
 ### Check my webpage [My GitHub](https://banigoden.github.io/)
-### [Leetcode](https://leetcode.com/) or another site with algorithmic tasks. Here tasks are structured by categories. [InterviewBit](https://www.interviewbit.com/courses/programming)
+### [Leetcode](https://leetcode.com/) or another [InterviewBit](https://www.interviewbit.com/courses/programming) with algorithmic tasks. Here tasks are structured by categories. 
 ### Improve it everytime [Renting](https://github.com/banigoden/renting)
 # Helpfull link for all
 ### Kubernetes  and GKE. Where did I learn it? [Kubernetes](https://kubernetes.io/docs/home/) and the [video](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org) help you.
