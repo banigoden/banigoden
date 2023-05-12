@@ -4,7 +4,7 @@
 ### 🌱 I’m currently learning Python, CSS, Kubernates 
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 📫 How to reach me: [banigoden@gmail.com](mailto:banigoden@gmail.com), [LinkedIn](https:https://www.linkedin.com/in/denis-banigan-695b52148/)
-### 😄 Pronouns: Denis
+### 😄 Pronouns: Denchik
 ### ⚡ Fun fact: I am interested in Sailing Yachting, volleyball
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB.
