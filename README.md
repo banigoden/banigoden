@@ -35,5 +35,6 @@ Kubernetes Engine Containers
 ### link:https://learnweb3.io/](https://learnweb3.io/[Web3]
 ### link:https://algorithm-visualizer.org/](https://algorithm-visualizer.org/[DSA]
 ### link:[https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org (https://algorithm-visualizer.org/](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org)
+### [JavaScript][(https://www.google.com/](https://javascript.info/)
 
 
