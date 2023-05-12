@@ -26,7 +26,7 @@
 ### [JavaScript](https://javascript.info)
 ### [Web3](https://learnweb3.io)
 ### [DSA](https://algorithm-visualizer.org)
-### [link:](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org)
+### [AWS Cloud](https://www.youtube.com/watch?v=SOTamWNgDKc&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=3&ab_channel=freeCodeCamp.org)
 ### [JavaScript](https://javascript.info)
 
 
