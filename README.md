@@ -9,6 +9,7 @@
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB, Docker.
 ### Good understanding of docker commands and structure. 
+### I am on my way to get sertificate of [Cloud Development with AWS](https://github.com/EPAM-JS-Competency-center/cloud-development-course-initial/tree/main/1_cloud_introduction)
 ### Check my webpage [My GitHub](https://banigoden.github.io/)
 ### [Leetcode](https://leetcode.com/) or another [InterviewBit](https://www.interviewbit.com/courses/programming) with algorithmic tasks. Here tasks are structured by categories. 
 ### Improve it everytime [Renting](https://github.com/banigoden/renting)
