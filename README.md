@@ -7,7 +7,8 @@
 ### 😄 Pronouns: Denchik
 ### ⚡ Fun fact: I am interested in Sailing Yachting, volleyball
 ### 👯 I’m looking to collaborate on my GitHub repos
-### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB.
+### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB, Docker.
+### Good understanding of docker commands and structure. 
 ### Check my webpage [My GitHub](https://banigoden.github.io/)
 ### [Leetcode](https://leetcode.com/) or another [InterviewBit](https://www.interviewbit.com/courses/programming) with algorithmic tasks. Here tasks are structured by categories. 
 ### Improve it everytime [Renting](https://github.com/banigoden/renting)
