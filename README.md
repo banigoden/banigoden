@@ -20,7 +20,7 @@
 ### [MongoDB](https://learn.mongodb.com/learn/dashboard) or just read the [docs](https://docs.mongodb.com)
 ### [MySQL](https://sqlbolt.com/lesson/introduction)
 ### [Phyton](https://learnpython.com)
-### [Docker](https://docs.docker.com) and [video](https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&ab_channel=freeCodeCamp.org)
+### [Docker](https://docs.docker.com) and [video](https://www.youtube.com/watch?v=fqMOX6JJhGo&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&ab_channel=freeCodeCamp.org) and [Practice](https://kodekloud.com/lessons/hands-on-labs/)
 ### [RapidAPI](https://rapidapi.com/learn)
 ### [HTML](https://html.com)
 ### [CSS](https://css-tricks.com)
