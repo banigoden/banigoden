@@ -33,6 +33,6 @@
 ### [Gradle Java](https://docs.gradle.org/current/samples/sample_building_java_applications.html)
 ### [React](https://react.dev/learn)
 ### [Transormer](https://transform.tools/json-to-java)
-### [Selenium tutorial]([https://www.youtube.com/playlist?list=PLhW3qG5bs-L8oRay6qeS70vJYZ3SBQnFa](https://www.guru99.com/selenium-tutorial.html)) and [youtube](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8oRay6qeS70vJYZ3SBQnFa)
+### [Selenium tutorial](https://www.guru99.com/selenium-tutorial.html) and [youtube](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8oRay6qeS70vJYZ3SBQnFa)
 
 
