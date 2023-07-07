@@ -3,7 +3,7 @@
 ### 🔭 I’m a 29-year-old software guy
 ### 🌱 I’m currently learning Python, CSS, Kubernates 
 ### 👯 I’m looking to collaborate on my GitHub repos
-### 📫 How to reach me: [banigoden@gmail.com](mailto:banigoden@gmail.com), [LinkedIn](https:https://www.linkedin.com/in/denis-banigan-695b52148/)
+### 📫 How to reach me: [banigoden@gmail.com](mailto:banigoden@gmail.com), [LinkedIn](www.linkedin.com/in/denis--bandurin)
 ### 😄 Pronouns: Denchik
 ### ⚡ Fun fact: I am interested in Sailing Yachting, volleyball
 ### 👯 I’m looking to collaborate on my GitHub repos
