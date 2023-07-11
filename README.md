@@ -37,5 +37,5 @@
 ### [Selenium tutorial](https://www.guru99.com/selenium-tutorial.html), [youtube](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8oRay6qeS70vJYZ3SBQnFa) 
 ### [JUnit](https://junit.org/junit5/docs/current/user-guide/)
 ### [Scrum](https://www.tutorialspoint.com/scrum/scrum_overview.htm) and [quiz](https://www.classmarker.com/online-test/start/results/?quiz=3qg5fac7589c0416)
-
+### [SDKMAN!](https://sdkman.io/) is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems.
 
