@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Denis
-##  I am looking for a Backend with a partly Frontend Developer position where I can assume my Cloud and Kubernetes knowledge.
+##  I am looking for a Backend with a partly Frontend Developer | DevOps position where I can assume my Cloud, Kubernetes and Docker knowledge.
 ### 🔭 I’m a 29-year-old software guy
 ### 🌱 I’m currently learning Python, CSS, Kubernates 
 ### 👯 I’m looking to collaborate on my GitHub repos
