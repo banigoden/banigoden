@@ -5,7 +5,7 @@
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 📫 How to reach me: [banigoden@gmail.com](mailto:banigoden@gmail.com), [LinkedIn](www.linkedin.com/in/denis--bandurin)
 ### 😄 Pronouns: Denchik
-### ⚡ Fun fact: I am interested in Sailing Yachting, volleyball
+### ⚡ Fun fact: I am interested in Sailing Yachting, Squash
 ### 👯 I’m looking to collaborate on my GitHub repos
 ### 💬 Ask me about Java, Spring Boot, HTML, MySQL, MongoDB, Docker.
 ### Good understanding of docker commands and structure. 
