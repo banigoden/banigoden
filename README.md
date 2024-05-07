@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Denis
-##  I am looking for a Backend with a partly Frontend Developer | DevOps position where I can assume my Cloud, Kubernetes and Docker knowledge.
+##  I am looking for DevOps position where I can assume my Cloud, Kubernetes, Docker knowledge and a Backend with a partly Frontend Developer.
 ### 🔭 I’m a 30-year-old software guy
 ### 🌱 I’m currently learning Python, CSS, Kubernates 
 ### 👯 I’m looking to collaborate on my GitHub repos
@@ -16,7 +16,6 @@
 # Helpfull link for all
 ### Kubernetes  and GKE. Where did I learn it? [Kubernetes](https://kubernetes.io/docs/home/) and the [video](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org) help you.
 ### Kubernetes Engine Containers
-### 🎤 (15:57:05) Creating a GKE Cluster. What can you learn there: copy from github into cloud. Buil a container image. Push the image to container regestry. Create deployment. Verify everything.
 ### [K8s](https://www.youtube.com/watch?v=d6WC5n9G_sM&list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&index=6&ab_channel=freeCodeCamp.org)
 ### [MongoDB](https://learn.mongodb.com/learn/dashboard) or just read the [docs](https://docs.mongodb.com)
 ### [MySQL](https://sqlbolt.com/lesson/introduction)
